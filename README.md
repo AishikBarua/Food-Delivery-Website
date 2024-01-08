@@ -17,5 +17,6 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![fffff](https://github.com/AishikBarua/Food-Delivery-Website/assets/111943452/d7b34caf-28c8-4050-9456-9b5dbb5aaa45)
+
 
